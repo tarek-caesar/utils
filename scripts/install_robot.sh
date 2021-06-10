@@ -26,5 +26,5 @@ pip3 install robotframework-selenium2library
 pip3 install -U selenium
 
 echo "######### Installing Chrome Driver ########"
-wget https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_linux64.zip
+wget https://chromedriver.storage.googleapis.com/91.0.4472.19/chromedriver_linux64.zip
 unzip chromedriver_linux64.zip -d /usr/local/bin
